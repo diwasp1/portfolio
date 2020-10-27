@@ -65,7 +65,7 @@ function NavBar() {
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.twitter.com">
                   <i className="fab fa-twitter-square"></i>
                 </a>
               </li>
